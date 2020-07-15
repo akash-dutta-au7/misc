@@ -1,0 +1,12 @@
+.Counter {
+  margin-top: 3rem;
+}
+.btn {
+  background-color: green;
+  color: white;
+  font-weight: bold;
+  padding: 0.2rem 0.5rem;
+  margin: auto;
+  border-radius: 5px;
+  border: 2px solid white;
+}
